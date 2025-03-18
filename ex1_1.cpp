@@ -1,3 +1,4 @@
+// aquest codi ens permet saber si s'ha establert la comunicaccio correcte amb els dispositius periferics que connectem. Provem amb tots els dispositius i el que obtenim es "done" per tant conexio okai. 
 
 #include <Arduino.h>
 #include <Wire.h>
